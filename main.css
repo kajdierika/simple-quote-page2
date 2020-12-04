@@ -32,3 +32,20 @@ body {
   font-style: italic;
   color: azure;
 }
+
+nav {
+  text-transform: uppercase;
+  font-family: "Noto Sans", sans-serif;
+  font-size: 20px;
+  text-align: right;
+  width: 98%;
+  margin-top: 39rem;
+}
+
+a {
+  color: aliceblue;
+}
+
+a:hover {
+  color: dimgrey;
+}
